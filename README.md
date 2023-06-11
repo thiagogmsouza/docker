@@ -9,7 +9,7 @@ docker-APITest-newman
 
 2-Dockerfile: configura o container instalando o newman e newman-reporter-html
 
-3-No arquivo do github-actions execute o comando doker-composer up para executar os testes dentro do container Docker configurado nos arquivos acima.
+3-No arquivo d2o github-actions execute o comando doker-composer up para executar os testes dentro do container Docker configurado nos arquivos acima.
 
 
 # docker-ativdade
